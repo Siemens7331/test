@@ -1,0 +1,13 @@
+body{
+    background: url(../img/i.webp) aqua;
+}
+.bold{
+    font-weight:bold;
+}
+ul{
+    list-style-type: lower-roman;
+}
+.color{
+    color:blueviolet;
+    font-size: 2rem
+}
